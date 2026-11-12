@@ -27,6 +27,28 @@ Questo progetto nasce per rendere più accessibile il processo: le operazioni pr
 
 La configurazione viene salvata automaticamente nel file `~/.csv_github_uploader_config.json`.
 
+## Screenshot dell’applicazione
+
+### File & Output
+Configura il file sorgente, il formato di esportazione e il nome del risultato.
+
+![Schermata File e Output](screenshots/file-output.png)
+
+### Colonne
+Seleziona le colonne da mantenere e definisci eventuali rinomine.
+
+![Schermata Colonne](screenshots/colonne.png)
+
+### Log
+Consulta il registro delle operazioni e i messaggi dell'applicazione.
+
+![Schermata Log](screenshots/log.png)
+
+### Esempio di messaggio di errore
+La schermata seguente mostra un errore di riconoscimento del formato Excel: è un esempio diagnostico, non una procedura completata correttamente.
+
+![Log con errore di lettura Excel](screenshots/log-errore.png)
+
 ## A chi si rivolge?
 
 - **Personale amministrativo e operativo** che lavora con file Excel e CSV e deve condividerli tramite GitHub.
