@@ -116,6 +116,3 @@ Output previsto: `dist/CSVGitHubUploader.app` (dimensione indicativa: 80–100 M
 
 CSV / Excel → GitHub Uploader vuole semplificare il percorso tra un foglio di calcolo e un repository GitHub, rendendo più accessibile la pubblicazione dei dati a chi li usa quotidianamente.
 
----
-
-*Prima della pubblicazione: aggiungere link alle release, screenshot dell'interfaccia, licenza e istruzioni di contributo, se disponibili.*
